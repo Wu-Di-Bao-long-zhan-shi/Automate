@@ -7,5 +7,5 @@ Automate(自动化) 可以帮助你执行一些重复性操作，鼠标的重复
 
 ![image](https://github.com/user-attachments/assets/27467991-fa05-416b-ab71-1ea33c41f95d)
 
-下载方式：选择“程序主体”, 单独下载它
+下载方式：选择“程序主体”, 单独下载它(或者选择Releases挑选历史版本)
 
