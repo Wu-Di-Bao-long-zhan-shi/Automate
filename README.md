@@ -29,6 +29,7 @@ Automate(自动化) 可以帮助你执行一些重复性操作，鼠标的重复
 # 注意事项
 不要在键盘输入设置执行的快捷键，否则会陷入无限循环。非用不可的话，可以更改快捷键
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6645f764-a1d0-4f20-a1fd-ce0666507575)
+
 
 
