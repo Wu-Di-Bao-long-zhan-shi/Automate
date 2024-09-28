@@ -1,6 +1,11 @@
 # Automate
 Automate(自动化) 可以帮助你执行一些重复性操作，鼠标的重复点击，拖动。键盘的按下
 
+蓝奏云地址： 
+https://wwfa.lanzouo.com/b007sy0zef
+密码:1tal
+
+
 # 程序截图
 
 鼠标操作
